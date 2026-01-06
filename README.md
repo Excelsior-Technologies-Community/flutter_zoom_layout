@@ -18,6 +18,8 @@ A lightweight Flutter widget that provides zoom and pan functionality using a si
 ---
 ## Preview
 
+https://github.com/user-attachments/assets/366433f5-d6e6-43b6-8a4a-79dc6c97a48b
+
 ---
 ## 📁 File Structure
 
